@@ -1,7 +1,5 @@
 # dynamodb
-Projeto com DynamoDB
 
-# dio-live-dynamodb
 Repositório para o desafio de projeto sobre o Amazon DynamoDB
 
 ### Serviço utilizado
